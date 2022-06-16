@@ -95,6 +95,7 @@ footer {
         width: 100%;
     }
     .container {
+        width: 100%;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
@@ -109,6 +110,5 @@ footer {
     }
     span {
         display: inline;
-        padding-left: .25em;
     }
 }
