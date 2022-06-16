@@ -81,7 +81,7 @@ footer {
     margin-top: 3em;
 }
 
-@media (max-width: 465px) {
+@media (max-width: 469px) {
     .content {
         flex-direction: column;
         width: 100%;
